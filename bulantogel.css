@@ -90,6 +90,11 @@ color: #01baf0;
     border-bottom: 1px solid #40576e !important;
 }    
 
+.blog-sidebar .nav.menu > li > a:hover, a:active, a:focus {
+    color: #000000;
+    background: #282c3170;
+}
+
 .section .container {
     background: rgba(26, 43, 63, 0.73) !important;
 
