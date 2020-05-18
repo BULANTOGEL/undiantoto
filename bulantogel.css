@@ -33,13 +33,13 @@ color: #ffffff;
 }
 
 .results > h4 > i {
-    color: #01baf0 !important;
+    color: #ffffff !important;
 background: none !important;
--webkit-text-fill-color: #01baf0 !important;
+-webkit-text-fill-color: #ffffff !important;
 }
 
 h4 {
-	color: #dadada !important;
+	color: #ffffff !important;
 
 }
 .results-detail{
