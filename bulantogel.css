@@ -68,9 +68,9 @@ color: #01baf0;
 }
 
 .news-head {
-    background: #0b0b0b;
+    background: rgba(26, 43, 63, 0.73);
     height: 35px;
 }
 
 .news-body {
-    background: #0b0b0b}
+    background: rgba(26, 43, 63, 0.73)}
