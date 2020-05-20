@@ -33,7 +33,7 @@ color: #ffffff;
 }
 
 .results {
-    background: #40576e;
+    background: #424a54;
     padding: 10px;
     margin-bottom: 15px;
     color: #ffffff;
@@ -96,7 +96,7 @@ color: #01baf0;
 }
 
 .section .container {
-    background: rgba(26, 43, 63, 0.73) !important;
+    background: rgba(19, 26, 35, 0.81) !important
 
 }
 
@@ -126,9 +126,9 @@ color: #01baf0;
 }
 
 .news-head {
-    background: rgba(26, 43, 63, 0.73);
+    background: rgb(66, 74, 84);
     height: 35px;
 }
 
 .news-body {
-    background: rgba(26, 43, 63, 0.73)}
+    background: rgb(66, 74, 84)}
