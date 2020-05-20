@@ -5,6 +5,15 @@
 
 }
 
+.navbar-fixed-top .navbar-header .navbar-brand {
+    padding: 0;
+    margin-left: 0;
+    width: 210px;
+    height: 63px;
+    background: url(https://i.imgur.com/VaqSA9H.png) no-repeat;
+    background-size: 210px 63px;
+}
+
 body {
 background: #0b0b0b url("https://1.bp.blogspot.com/-tmvMJzk9e_I/XsJJsQWGhVI/AAAAAAAAAEc/zASd-HLI_3wGH6CbCK9rJjkoJ3qgnNG-ACLcBGAsYHQ/s1600/BULAN%2BTOGEL.jpg") center no-repeat !important;
 background-size: 100% 100% !important;
