@@ -131,4 +131,22 @@ color: #01baf0;
 }
 
 .news-body {
-    background: rgb(66, 74, 84)}
+    background: rgb(66, 74, 84)
+}
+
+footer#footer .footer-bottom {
+    padding: 20px 0;
+    background-color: #0000;
+    font-size: 12px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 1);
+    vertical-align: middle;
+}
+
+.blog-sidebar .nav.menu > li > a > i {
+    padding-right: 10px;
+    color: #fbd57a;
+    background: -webkit-linear-gradient(#f7ddae, #c9a173);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
