@@ -159,3 +159,7 @@ footer#footer .footer-bottom {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.col-sm-9 span {
+    display: none;
+}
