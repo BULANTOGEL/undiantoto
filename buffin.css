@@ -1,0 +1,161 @@
+.navbar-fixed-top {
+    background-color: #11181f;
+    border: #0b0b0b;
+
+
+}
+
+.navbar-fixed-top .navbar-header .navbar-brand {
+    padding: 0;
+    margin-left: 0;
+    width: 210px;
+    height: 63px;
+    background: url(https://1.bp.blogspot.com/-0o7cYZIu1Mg/XsZByf8-L4I/AAAAAAAAAFE/6_YQs5IZ8Ec7OIDYiVAMsX557W5rvHwDACLcBGAsYHQ/s1600/BULANTOTO.png) no-repeat;
+    background-size: 210px 63px;
+}
+
+body {
+background: #0b0b0b url("https://1.bp.blogspot.com/-qPOJ4Lz8w-s/XsZByuFMtiI/AAAAAAAAAFI/o11nRnhcNd0MgxjKJhHacqly7SqFHhVxgCLcBGAsYHQ/s1600/BULAN%2BTOGEL.jpg") center no-repeat !important;
+background-size: 100% 100% !important;
+background-attachment: fixed !important;
+}
+
+#footer {
+background-color: rgba(26, 43, 63, 0.38) !important;
+
+}
+
+.btn.btn-theme {
+ background: rgba(255, 255, 255);
+background: -moz-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,0,0)), color-stop(100%, rgba(236,36,36))) !important;
+background: -webkit-linear-gradient(top, #ffe7b7 0%, #c59b6e 100%) !important;
+background: -o-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
+background: -ms-linear-gradient(top, rgba(255,0,0) 0%, rgba(236,36,36) 100%) !important;
+background: linear-gradient(to bottom, rgba(0, 47, 81, 1) 0%, rgba(0, 47, 81, 1) 100%) !important
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9ad6f', endColorstr='#e3d6aa', GradientType=0 ) !important;
+}
+
+.results {
+color: #ffffff;
+
+}
+
+.results {
+    /* background: #424a54; */
+    padding: 10px;
+    margin-bottom: 15px;
+    color: #ffffff;
+    /* border: 1px solid #303030; */
+    -webkit-transition: all 0.25s linear;
+    -moz-transition: all 0.25s linear;
+    transition: all 0.25s linear;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.results > h4 > i {
+    color: #ffffff !important;
+background: none !important;
+-webkit-text-fill-color: #ffffff !important;
+}
+
+h4 {
+	color: #ffffff !important;
+
+}
+.results-detail{
+color: #01baf0;
+
+}
+
+.results-detail {
+    width: 100%;
+    display: inline-block;
+    background: rgba(18, 27, 37, 1);
+    padding: 5px 15px;
+    color: #ffffff;
+    /* border: 1px solid #232222; */
+    -webkit-transition: all 0.25s linear;
+    -moz-transition: all 0.25s linear;
+    transition: all 0.25s linear;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.blog-sidebar .nav.menu > li > a > i {
+    
+    color: #ff0000 !important;
+}
+
+.blog-sidebar .nav.menu > li > a {
+    color: #d6cead !important;
+    border-bottom: 1px solid #40576e !important;
+}    
+
+.blog-sidebar .nav.menu > li > a:hover, a:active, a:focus {
+    color: #000000;
+    background: #282c3170;
+}
+
+.section .container {
+    background: rgba(19, 26, 35, 0.81) !important
+
+}
+
+.news-detail {
+color: #01baf0;
+
+}
+
+.news-detail {
+    width: 100%;
+    height: 143px;
+    display: inline-block;
+    background: rgba(18, 27, 37, 1);
+    padding: 5px 15px;
+    color: #ffffff;
+    /* border: 1px solid #232222; */
+    -webkit-transition: all 0.25s linear;
+    -moz-transition: all 0.25s linear;
+    transition: all 0.25s linear;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    overflow-x: hidden ! important;
+    overflow-y: auto ! important;
+}
+
+.news-head {
+    background: rgb(66, 74, 84);
+    height: 35px;
+}
+
+.news-body {
+    background: rgb(66, 74, 84)
+}
+
+footer#footer .footer-bottom {
+    padding: 20px 0;
+    background-color: #0000;
+    font-size: 12px;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 1);
+    vertical-align: middle;
+}
+
+.blog-sidebar .nav.menu > li > a > i {
+    padding-right: 10px;
+    color: #fbd57a;
+    background: -webkit-linear-gradient(#f7ddae, #c9a173);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
