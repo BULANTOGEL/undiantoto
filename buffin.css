@@ -163,3 +163,9 @@ footer#footer .footer-bottom {
 .col-sm-9 span {
     display: none;
 }
+
+element.style {
+    opacity: 1;
+    display: block;
+    margin: -133px 0px 0px -1px;
+}
