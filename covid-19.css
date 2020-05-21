@@ -159,3 +159,8 @@ footer#footer .footer-bottom {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+element.style {
+    text-align: center;
+    margin: -118px 0 0 0;
+}
